@@ -1,6 +1,8 @@
 # Parking_Management_System_core_java
 A small experimental project using core java , JDBC and MySQL for parking management system for a small bussiness. This is great for someone wanting to learn java oops.
 
+Just download the jar connector file from mySQL : https://dev.mysql.com/downloads/connector/j/
+
 Login Page:
 
 ![image](https://github.com/user-attachments/assets/e170d5c4-0bca-44fa-9bd5-00174949046e)
